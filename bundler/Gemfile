@@ -1,4 +1,5 @@
 source "https://rubygems.org"
 
-gem 'cpf_utils'
-gem 'faker'
+gem 'lerolero', '1.0.1'
+gem 'cpf_utils', '>=1.0.0'
+gem 'faker', '~1.6'
